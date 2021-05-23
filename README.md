@@ -3,7 +3,7 @@
 
 - 🎓 I'm pursuing my Bachelors in Computer Science and Engineering from BITS Pilani, Goa Campus.
 - 🔭 I'm an Android Developer and an Open Souce Enthusiast.
-- 📫 You can reach out to me at shivamsawlani02@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/shivam-sawlani-b54b42197/)
+- 📫 You can reach out to me at shivamsawlani02@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/shivam-sawlani/)
 
 ### 🛠 Tech Stack
 <img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java" height="30">  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-071a52?style=for-the-badge&logo=kotlin" height="30">  <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=c%2B%2B" height="30"> <img alt="C++" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"> <img alt="Git" src="https://img.shields.io/badge/-git-white?logo=git" height="30"> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?logo=github" height="30"> 
