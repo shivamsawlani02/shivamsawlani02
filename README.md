@@ -16,5 +16,6 @@
 
 ### 🤝🏻 Connect with me
 
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> &nbsp; <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  
+<a href=mailto:shivamsawlani02@gmail.com target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Shivam"/></a>
+&nbsp;
+<a href=https://www.linkedin.com/in/shivam-sawlani target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shivam"/></a>  
