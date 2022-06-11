@@ -1,4 +1,4 @@
-## Hey! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Shivam. 😀
+## Hey! I'm Shivam. 😀
 
 
 - 🎓 I'm pursuing my Bachelors in Computer Science and Engineering from BITS Pilani, Goa Campus.
