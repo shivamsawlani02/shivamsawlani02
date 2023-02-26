@@ -1,4 +1,4 @@
-## Hey! I'm Shivam. 😀
+## Hey! I'm Shivam. 
 
 
 - 🎓 I'm pursuing my Bachelors in Computer Science and Engineering from BITS Pilani, Goa Campus.
